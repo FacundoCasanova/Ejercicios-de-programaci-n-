@@ -1,0 +1,14 @@
+C:\Users\W11\Desktop\ejercicios\EncontrarModa\EncontrarModa\bin\Debug\net10.0\EncontrarModa.exe
+C:\Users\W11\Desktop\ejercicios\EncontrarModa\EncontrarModa\bin\Debug\net10.0\EncontrarModa.deps.json
+C:\Users\W11\Desktop\ejercicios\EncontrarModa\EncontrarModa\bin\Debug\net10.0\EncontrarModa.runtimeconfig.json
+C:\Users\W11\Desktop\ejercicios\EncontrarModa\EncontrarModa\bin\Debug\net10.0\EncontrarModa.dll
+C:\Users\W11\Desktop\ejercicios\EncontrarModa\EncontrarModa\bin\Debug\net10.0\EncontrarModa.pdb
+C:\Users\W11\Desktop\ejercicios\EncontrarModa\EncontrarModa\obj\Debug\net10.0\EncontrarModa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W11\Desktop\ejercicios\EncontrarModa\EncontrarModa\obj\Debug\net10.0\EncontrarModa.AssemblyInfoInputs.cache
+C:\Users\W11\Desktop\ejercicios\EncontrarModa\EncontrarModa\obj\Debug\net10.0\EncontrarModa.AssemblyInfo.cs
+C:\Users\W11\Desktop\ejercicios\EncontrarModa\EncontrarModa\obj\Debug\net10.0\EncontrarModa.csproj.CoreCompileInputs.cache
+C:\Users\W11\Desktop\ejercicios\EncontrarModa\EncontrarModa\obj\Debug\net10.0\EncontrarModa.dll
+C:\Users\W11\Desktop\ejercicios\EncontrarModa\EncontrarModa\obj\Debug\net10.0\refint\EncontrarModa.dll
+C:\Users\W11\Desktop\ejercicios\EncontrarModa\EncontrarModa\obj\Debug\net10.0\EncontrarModa.pdb
+C:\Users\W11\Desktop\ejercicios\EncontrarModa\EncontrarModa\obj\Debug\net10.0\EncontrarModa.genruntimeconfig.cache
+C:\Users\W11\Desktop\ejercicios\EncontrarModa\EncontrarModa\obj\Debug\net10.0\ref\EncontrarModa.dll

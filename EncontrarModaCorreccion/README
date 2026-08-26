@@ -1,1 +1,4 @@
 Luego de realizar el ejercicio de "EncontrarModa" realice una busqueda para mejorar el codigo anterior llegando a la conclusion de que una mejor practica se podia lograr usando Diccionarios y siclos de iteracion Foreach.
+La mejora que se realizo fue una reduccion de complejidad. La solucion original proponia utilizar dos bucles anidados, resultando en un costo O(N^2) (mayor costo en tiempo de ejecucion del programa).
+
+Aclaracion: "O(n)" describe la complejidad temporal de un algoritmo, lo que significa, el tiempo de ejecución del programa. En "O(N^2)" la complejidad crece de forma proporcional al cuadrado del número de elementos de entrada (n).
